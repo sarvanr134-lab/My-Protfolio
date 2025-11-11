@@ -39,7 +39,7 @@ const Contact = () => (
           <div className="icon"><img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" /></div>
           <div className="contact-info">
             <h1>Linkedin</h1>
-            <h2>SARAVANAKUMAR MAYAVAN</h2>
+            <h2>SARAVANAKUMAR Mayavan</h2>
           </div>
         </div>
       </div>
