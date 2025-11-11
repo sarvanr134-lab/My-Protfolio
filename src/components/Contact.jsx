@@ -12,13 +12,6 @@ const Contact = () => (
             <h2>+91 9361102449</h2>
           </div>
         </div>
-        {/* <div className="contact-item">
-          <div className="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png"/></div>
-          <div className="contact-info">
-            <h1>Email</h1>
-            <h2>sarvanr134@gamil.com</h2>
-          </div>
-        </div> */}
         <div className="contact-item">
           <div className="icon">
             <a href="mailto:sarvanr134@gmail.com">
