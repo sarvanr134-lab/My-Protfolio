@@ -6,7 +6,7 @@ const Services = () => (
       <div className="service-top">
         <h1 className="section-title">sk<span>i</span>lles</h1>
         <p>
-          IBM announces plans to acquire the Adobe Workfront consulting unit and assets from Rego Consulting Corporation to further its hybrid cloud and AI strategy.
+          {/* IBM announces plans to acquire the Adobe Workfront consulting unit and assets from Rego Consulting Corporation to further its hybrid cloud and AI strategy. */}
         </p>
       </div>
       <div className="service-bottom">
