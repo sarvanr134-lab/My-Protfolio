@@ -21,7 +21,7 @@ const Projects = () => (
               asked questions.
             </p>
             <a
-              href="https://yourprojectlink.com"
+              href="https://demo-one-psi-14.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
