@@ -14,14 +14,14 @@ const Projects = () => (
         {/* --- Project 1 --- */}
         <div className="project-item">
           <div className="project-info">
-            <h1>Project 1</h1>
+            <h1>Fuel Station Management System</h1>
             <h2>Coding is Love</h2>
             <p>
               AI-powered chatbot via a web application that answers frequently
               asked questions.
             </p>
             <a
-              href="https://demo-one-psi-14.vercel.app/"
+              href="https://fuel-management-system-a5vw.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
