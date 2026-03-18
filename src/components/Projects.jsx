@@ -1,5 +1,6 @@
 import React from "react";
 import img1 from "../assets/fuel-management-system.webp";
+import Netflix_banner from "../assets/netflix_banner.jpg"
 
 const Projects = () => (
   <section id="projects">
@@ -37,10 +38,9 @@ const Projects = () => (
         <div className="project-item">
           <div className="project-info">
             <h1>Project 2</h1>
-            <h2>Smart Learning</h2>
+            <h2>Netflix Clone</h2>
             <p>
-              Interactive learning app built with React and Node.js for
-              personalized education.
+             Building Netflix clone 
             </p>
             <a
               href="https://anotherprojectlink.com"
@@ -51,7 +51,7 @@ const Projects = () => (
             </a>
           </div>
           <div className="project-img">
-            <img src={img1} alt="Project 2" />
+            <img src={Netflix_banner} alt="Project 2" />
           </div>
         </div>
 
