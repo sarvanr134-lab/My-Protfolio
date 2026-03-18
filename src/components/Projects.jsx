@@ -43,7 +43,7 @@ const Projects = () => (
              Building Netflix clone 
             </p>
             <a
-              href="https://anotherprojectlink.com"
+              href="https://saravana-netflix-clone.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
