@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "../assets/fuel-management-system.webp";
+import img1 from "../assets/Event_management.png";
 import Netflix_banner from "../assets/netflix_banner.jpg"
 
 const Projects = () => (
@@ -15,14 +15,15 @@ const Projects = () => (
         {/* --- Project 1 --- */}
         <div className="project-item">
           <div className="project-info">
-            <h1>Fuel Station Management System</h1>
+            <h1>Event Management System</h1>
             <h2>Coding is Love</h2>
             <p>
-              AI-powered chatbot via a web application that answers frequently
-              asked questions.
+              An event management system built with React, Node.js, and MongoDB
+              for seamless event planning and organization.
             </p>
             <a
-              href="https://fuel-management-system-a5vw.vercel.app/"
+               href="https://event-management-cnxy4sn4e-saravanakumars-projects-ff578837.vercel.app/"
+              // href="https://fuel-management-system-a5vw.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
